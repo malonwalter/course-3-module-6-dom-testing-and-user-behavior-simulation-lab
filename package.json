@@ -8,12 +8,25 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "As a junior developer on a web development team, you are tasked with ensuring the functionality of a web application by validating DOM interactions and user behaviors. This involves simulating user actions, such as button clicks and form submissions, and verifying that these interactions update the DOM as expected. Mastering DOM testing techniques is crucial for maintaining application quality.",
   "devDependencies": {
-    "@eslint/js": "^9.8.0",
-    "eslint": "^9.8.0",
-    "globals": "^15.8.0",
+    "@eslint/js": "^9.39.4",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^15.15.0",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malonwalter/course-3-module-6-dom-testing-and-user-behavior-simulation-lab.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/malonwalter/course-3-module-6-dom-testing-and-user-behavior-simulation-lab/issues"
+  },
+  "homepage": "https://github.com/malonwalter/course-3-module-6-dom-testing-and-user-behavior-simulation-lab#readme"
 }
